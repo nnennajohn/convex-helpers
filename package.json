@@ -27,7 +27,9 @@
     "classnames": "^2.3.2",
     "convex": "^1.22.0",
     "convex-helpers": "file:packages/convex-helpers/dist",
+    "dotenv": "^8.2.0",
     "hono": "^4.3.6",
+    "node-fetch": "^3.3.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "usehooks-ts": "^3.1.0",
@@ -51,7 +53,7 @@
     "jsdom": "26.0.0",
     "npm-run-all2": "7.0.2",
     "typescript": "5.8.3",
-    "vite": "6.2.5",
+    "vite": "6.2.6",
     "vitest": "3.1.1"
   }
 }
